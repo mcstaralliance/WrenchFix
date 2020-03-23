@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="WrenchFix">
+    <output-path>$PROJECT_DIR$/out/artifacts/WrenchFix</output-path>
+    <root id="archive" name="WrenchFix.jar">
+      <element id="module-output" name="WrenchFix" />
+      <element id="file-copy" path="$PROJECT_DIR$/src/main/resources/plugin.yml" />
+    </root>
+  </artifact>
+</component>

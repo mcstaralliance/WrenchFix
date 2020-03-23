@@ -1,0 +1,6 @@
+name: WrenchFIX
+version: ${project.version}
+main: cn.xtuly.mcp.wrenchfix.WrenchFIX
+authors: [Ylarod]
+description: Prevent player from using IC2 wrench to get items illegally.
+website: xtuly.cn
