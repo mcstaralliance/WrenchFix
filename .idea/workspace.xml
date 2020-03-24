@@ -6,11 +6,20 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7ce57a35-bed8-4a97-971d-49630651d5c7" name="Default Changelist" comment="" />
+    <list default="true" id="7ce57a35-bed8-4a97-971d-49630651d5c7" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/WrenchFix/WrenchFix.jar" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/WrenchFix/WrenchFix.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cn/xtuly/mcp/wrenchfix/WrenchFIX.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/cn/xtuly/mcp/wrenchfix/WrenchFIX.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/xtuly/mcp/wrenchfix/WrenchFIX.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/cn/xtuly/mcp/wrenchfix/WrenchFIX.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
@@ -28,6 +37,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources/plugin.yml" />
@@ -75,6 +85,7 @@
       <option name="presentableId" value="Default" />
       <updated>1584944488824</updated>
       <workItem from="1584944493351" duration="5311000" />
+      <workItem from="1585047154721" duration="3125000" />
     </task>
     <servers />
   </component>
@@ -86,6 +97,10 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="614" y="321" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1536.864@0.0.1536.864" timestamp="1584944505388" />
+    <state x="372" y="25" key="CommitChangelistDialog2" timestamp="1585049152567">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="372" y="25" key="CommitChangelistDialog2/0.0.1536.864@0.0.1536.864" timestamp="1585049152567" />
     <state x="549" y="187" key="FileChooserDialogImpl" timestamp="1584946300664">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
