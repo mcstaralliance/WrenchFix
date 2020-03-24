@@ -4,6 +4,14 @@
 
 [B站BUG视频链接](https://www.bilibili.com/video/av98426479)
 
+使用方法:
+
+配置debug: true拿着扳手右键储物箱,获取储物箱方块ID和扳手ID
+
+或者使用/itemdb获取扳手ID,创世神的/info获取方块id
+
+填写到配置文件里面,重载插件即可
+
 配置文件:
 
 ```
@@ -18,3 +26,4 @@ Message:
   kick: '[§aWrenchFix§f]检测到你正在你用扳手刷物品bug,你已被kick'
   ban: '[§aWrenchFix§f]检测到你正在你用扳手刷物品bug,你已被ban'
 ```
+
